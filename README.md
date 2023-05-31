@@ -1,1 +1,1 @@
-# Soc
+Till the 3rd week of our soc project the focus has been on learning front end dev. and started with back end dev. in the 3rd week. We also did a assignment in front end dev by making a website about ourselves
